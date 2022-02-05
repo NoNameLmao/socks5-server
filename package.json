@@ -1,0 +1,17 @@
+{
+    "name": "socks5-server",
+    "version": "1.0.0",
+    "description": "host a socks5 proxy server using node.js",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "node-socks5-server": "^1.0.1"
+    }
+}
