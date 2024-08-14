@@ -12,6 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "colors": "^1.4.0",
-        "node-socks5-server": "^1.0.1"
+        "dotenv": "^16.4.5",
+        "node-socks5-server": "1.1.0"
     }
 }
